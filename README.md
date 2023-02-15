@@ -1,6 +1,6 @@
 # The Project
 
-Inspired by the work of [@alexandregv](https://github.com/alexandregv) on [RP42](https://github.com/alexandregv/RP42)
+My version of the [RP42](https://github.com/alexandregv/RP42) created by [@alexandregv](https://github.com/alexandregv)
 
 # Warning
 
