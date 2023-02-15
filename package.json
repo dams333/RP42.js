@@ -1,0 +1,22 @@
+{
+	"name": "rp42",
+	"version": "1.0.0",
+	"description": "Application to add a Discord rich presence with your 42's informations",
+	"main": "index.js",
+	"scripts": {
+		"test": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dams333/RP42.js.git"
+	},
+	"author": "dhubleur",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/dams333/RP42.js/issues"
+	},
+	"homepage": "https://github.com/dams333/RP42.js#readme",
+	"dependencies": {
+		"discord-rich-presence": "^0.0.8"
+	}
+}
