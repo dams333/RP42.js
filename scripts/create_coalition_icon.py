@@ -17,4 +17,4 @@ def create_icon(coa_logo_url, coa_background_color, output):
 
 	result.save(output)
 
-create_icon('https://cdn.intra.42.fr/coalition/image/47/order.svg', '#FF6950', 'assets/coa-order.png')
+create_icon('https://cdn.intra.42.fr/coalition/image/47/order.svg', '#FF6950', 'assets/42cursus-paris-the-order.png')

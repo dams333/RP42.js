@@ -17,6 +17,8 @@
 	},
 	"homepage": "https://github.com/dams333/RP42.js#readme",
 	"dependencies": {
-		"discord-rich-presence": "^0.0.8"
+		"42.js": "^1.2.5",
+		"discord-rich-presence": "^0.0.8",
+		"dotenv": "^16.0.3"
 	}
 }
