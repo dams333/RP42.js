@@ -4,7 +4,7 @@
 	"description": "Application to add a Discord rich presence with your 42's informations",
 	"main": "index.js",
 	"scripts": {
-		"test": "node index.js"
+		"start": "node index.js"
 	},
 	"repository": {
 		"type": "git",

@@ -22,6 +22,8 @@ function updatePresence(login, lvl, location, campus, coalition_logo_key, starte
 	client.updatePresence(params);
 }
 
+process.title = "RP42";
+
 (async () => {
 	const api_client = new Client(
 		process.env.CLIENT_ID,
