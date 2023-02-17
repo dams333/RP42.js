@@ -18,3 +18,6 @@ def create_icon(coa_logo_url, coa_background_color, output):
 	result.save(output)
 
 create_icon('https://cdn.intra.42.fr/coalition/image/47/order.svg', '#FF6950', 'assets/42cursus-paris-the-order.png')
+create_icon('https://cdn.intra.42.fr/coalition/image/46/alliance.svg', '#33C47F', 'assets/42cursus-paris-the-alliance.png')
+create_icon('https://cdn.intra.42.fr/coalition/image/48/assembly.svg', '#A061D1', 'assets/42cursus-paris-the-assembly.png')
+create_icon('https://cdn.intra.42.fr/coalition/image/45/federation.svg', '#4180DB', 'assets/42cursus-paris-the-federation.png')

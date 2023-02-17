@@ -3,7 +3,10 @@ require('dotenv').config();
 const Client = require('42.js').Client
 
 const supported_coalitions = [
-	"42cursus-paris-the-order"
+	"42cursus-paris-the-order",
+	"42cursus-paris-the-alliance",
+	"42cursus-paris-the-assembly",
+	"42cursus-paris-the-federation",
 ];
 
 function updatePresence(login, lvl, location, campus, coalition_logo_key, startedAt) {
