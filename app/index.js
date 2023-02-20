@@ -69,7 +69,7 @@ process.title = "RP42";
 	let level = 0;
 	const cursuses = (await api_client.get(`/users/${user.id}/cursus_users?filter[active]=true`)).data;
 	if (cursuses.length > 0) {
-		level = cursuses[0].level;
+		level = cursuses[0].level.toFixed(2);
 	}
 
 	let coalition_slug = "";
